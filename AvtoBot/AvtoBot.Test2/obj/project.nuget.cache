@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "iCGKS85C1Ew=",
+  "dgSpecHash": "mVBa1lC+HTk=",
   "success": true,
-  "projectFilePath": "D:\\fun\\AvtoBot\\AvtoBot.Test2\\AvtoBot.Test2.csproj",
+  "projectFilePath": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot.Test2\\AvtoBot.Test2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentassertions\\8.2.0\\fluentassertions.8.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\microsoft.net.test.sdk.17.12.0.nupkg.sha512",

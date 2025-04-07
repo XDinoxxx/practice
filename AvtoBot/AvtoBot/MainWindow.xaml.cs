@@ -28,7 +28,7 @@ public partial class MainWindow : Window
             if (match.Success)
             {
                 string varName = match.Groups[1].Value;
-                double varValue = double.Parse(match.Groups[2].Value);
+                double varValue = double.Parse(match.Groups[2].Value, System.Globalization.CultureInfo.InvariantCulture);
 
                 if (evaluator.AddVariable(varName, varValue))
                 {

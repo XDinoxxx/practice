@@ -8,6 +8,19 @@
           "build/netstandard2.0/coverlet.collector.targets": {}
         }
       },
+      "FluentAssertions/8.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentAssertions.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentAssertions.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.ApplicationInsights/2.22.0": {
         "type": "package",
         "dependencies": {
@@ -731,6 +744,31 @@
         "coverlet-icon.png",
         "coverlet.collector.6.0.2.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "FluentAssertions/8.2.0": {
+      "sha512": "Gh4jkECcrR0i17ofCVqsiVz2+lxC+p5TYFPCrbZFi7eQQWGEZhvCDwvhycBKX1Kmtbd+H2CW/ugW7wdH9Br9NQ==",
+      "type": "package",
+      "path": "fluentassertions/8.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "FluentAssertions.png",
+        "LICENSE",
+        "fluentassertions.8.2.0.nupkg.sha512",
+        "fluentassertions.nuspec",
+        "lib/net47/FluentAssertions.dll",
+        "lib/net47/FluentAssertions.pdb",
+        "lib/net47/FluentAssertions.xml",
+        "lib/net6.0/FluentAssertions.dll",
+        "lib/net6.0/FluentAssertions.pdb",
+        "lib/net6.0/FluentAssertions.xml",
+        "lib/netstandard2.0/FluentAssertions.dll",
+        "lib/netstandard2.0/FluentAssertions.pdb",
+        "lib/netstandard2.0/FluentAssertions.xml",
+        "lib/netstandard2.1/FluentAssertions.dll",
+        "lib/netstandard2.1/FluentAssertions.pdb",
+        "lib/netstandard2.1/FluentAssertions.xml"
       ]
     },
     "Microsoft.ApplicationInsights/2.22.0": {
@@ -1601,6 +1639,7 @@
   "projectFileDependencyGroups": {
     "net9.0-windows7.0": [
       "AvtoBot >= 1.0.0",
+      "FluentAssertions >= 8.2.0",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "NUnit >= 4.2.2",
       "NUnit.Analyzers >= 4.4.0",
@@ -1615,11 +1654,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fun\\AvtoBot\\AvtoBot.Test2\\AvtoBot.Test2.csproj",
+      "projectUniqueName": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot.Test2\\AvtoBot.Test2.csproj",
       "projectName": "AvtoBot.Test2",
-      "projectPath": "D:\\fun\\AvtoBot\\AvtoBot.Test2\\AvtoBot.Test2.csproj",
+      "projectPath": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot.Test2\\AvtoBot.Test2.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\fun\\AvtoBot\\AvtoBot.Test2\\obj\\",
+      "outputPath": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot.Test2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1640,8 +1679,8 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "D:\\fun\\AvtoBot\\AvtoBot\\AvtoBot.csproj": {
-              "projectPath": "D:\\fun\\AvtoBot\\AvtoBot\\AvtoBot.csproj"
+            "D:\\GitHub\\practice\\AvtoBot\\AvtoBot\\AvtoBot.csproj": {
+              "projectPath": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot\\AvtoBot.csproj"
             }
           }
         }
@@ -1662,6 +1701,10 @@
       "net9.0-windows7.0": {
         "targetAlias": "net9.0-windows",
         "dependencies": {
+          "FluentAssertions": {
+            "target": "Package",
+            "version": "[8.2.0, )"
+          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[17.12.0, )"

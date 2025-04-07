@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fun\\AvtoBot\\AvtoBot\\AvtoBot.csproj",
+      "projectUniqueName": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot\\AvtoBot.csproj",
       "projectName": "AvtoBot",
-      "projectPath": "D:\\fun\\AvtoBot\\AvtoBot\\AvtoBot.csproj",
+      "projectPath": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot\\AvtoBot.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\fun\\AvtoBot\\AvtoBot\\obj\\",
+      "outputPath": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

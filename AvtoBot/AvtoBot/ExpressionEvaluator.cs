@@ -18,6 +18,7 @@ public class ExpressionEvaluator
             }
 
             expression = ReplaceFunctions(expression);
+            expression = expression.Replace(',', '.');
 
             var result = new DataTable().Compute(expression, null);
             return result.ToString();
