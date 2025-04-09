@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvtoBot", "AvtoBot\AvtoBot.csproj", "{04D2D797-1E4F-4999-8748-23E68D660304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvtoBot.Test2", "AvtoBot.Test2\AvtoBot.Test2.csproj", "{E4ADDB7F-7A44-49C6-837B-886BF48CDB40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D2D797-1E4F-4999-8748-23E68D660304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D2D797-1E4F-4999-8748-23E68D660304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D2D797-1E4F-4999-8748-23E68D660304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D2D797-1E4F-4999-8748-23E68D660304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4ADDB7F-7A44-49C6-837B-886BF48CDB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4ADDB7F-7A44-49C6-837B-886BF48CDB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4ADDB7F-7A44-49C6-837B-886BF48CDB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4ADDB7F-7A44-49C6-837B-886BF48CDB40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89636733-D44D-4EE1-84D0-790EA5505376}
+	EndGlobalSection
+EndGlobal

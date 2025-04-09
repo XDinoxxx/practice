@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\practice\\AvtoBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ADDB7F-7A44-49C6-837B-886BF48CDB40}|AvtoBot.Test2\\AvtoBot.Test2.csproj|d:\\github\\practice\\avtobot\\avtobot.test2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ADDB7F-7A44-49C6-837B-886BF48CDB40}|AvtoBot.Test2\\AvtoBot.Test2.csproj|solutionrelative:avtobot.test2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D2D797-1E4F-4999-8748-23E68D660304}|AvtoBot\\AvtoBot.csproj|d:\\github\\practice\\avtobot\\avtobot\\expressionevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D2D797-1E4F-4999-8748-23E68D660304}|AvtoBot\\AvtoBot.csproj|solutionrelative:avtobot\\expressionevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D2D797-1E4F-4999-8748-23E68D660304}|AvtoBot\\AvtoBot.csproj|d:\\github\\practice\\avtobot\\avtobot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D2D797-1E4F-4999-8748-23E68D660304}|AvtoBot\\AvtoBot.csproj|solutionrelative:avtobot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot.Test2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AvtoBot.Test2\\UnitTest1.cs",
+              "ToolTip": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot.Test2\\UnitTest1.cs",
+              "RelativeToolTip": "AvtoBot.Test2\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:16:18.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpressionEvaluator.cs",
+              "DocumentMoniker": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot\\ExpressionEvaluator.cs",
+              "RelativeDocumentMoniker": "AvtoBot\\ExpressionEvaluator.cs",
+              "ToolTip": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot\\ExpressionEvaluator.cs",
+              "RelativeToolTip": "AvtoBot\\ExpressionEvaluator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:32:09.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AvtoBot\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\GitHub\\practice\\AvtoBot\\AvtoBot\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AvtoBot\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:12:53.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
